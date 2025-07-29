@@ -1,55 +1,104 @@
-<h1 align="center">Hi 👋, My name is Nishil Pathak</h1>
-<h3 align="center">A passionate AI/ML enthusiast and aspiring student from India.</h3>
+<h1 align="center">Hi 👋, I'm Nishil Pathak</h1>
+<h3 align="center">🚀 A Passionate AI/ML Enthusiast & Student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishil61" alt="nishil61" /></a> </p>
+<p align="center">
+  <a href="https://github.com/nishil61">
+    <img src="https://komarev.com/ghpvc/?username=nishil61&label=Profile%20views&color=0e75b6&style=flat" alt="nishil61" />
+  </a>
+  <a href="https://twitter.com/nishilpathak">
+    <img src="https://img.shields.io/twitter/follow/nishilpathak?label=Follow&style=social" alt="nishilpathak" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/nishilpathak" target="blank"><img src="https://img.shields.io/twitter/follow/nishilpathak?logo=twitter&style=for-the-badge" alt="nishilpathak" /></a> </p>
+---
 
-- 🔭 I’m currently working on **AI/ML Projects**
+## 🧠 About Me
+- 🔭 Currently working on **AI/ML Projects**
+- 🌱 Exploring **Deep Learning, NLP, Reinforcement Learning, Neural Networks, Cloud**
+- 👯 Open to collaborate on **AI/ML-based projects**
+- 🤝 Looking for support with **Community Engagement**
+- 💬 Ask me about **Machine Learning | Cloud | Python**
+- 📫 Reach me at: **pathaknishil3642@gmail.com**
+- 👨‍💻 Projects: [GitHub Portfolio](https://github.com/nishil61)
 
-- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning, Reinforcement Learning, Neural Network, Natural Language Processing, Machine Learning Algorithms, Cloud, etc.**
+---
 
-- 👯 I’m looking to collaborate on **AI/ML Projects**
+## 📚 Education
+- 🎓 **B.Tech in Computer Engineering**, SVIT Vasad  
+  *(Expected Graduation: 2026)*
 
-- 🤝 I’m looking for help with **Community Engagement**
+---
 
-- 👨‍💻 All of my projects are available at [github](github)
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/nishilpathak"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30" /></a>
+  <a href="https://www.linkedin.com/in/nishil-pathak-05b2111b0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" /></a>
+  <a href="https://www.facebook.com/nishil.pathak/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30" /></a>
+  <a href="https://www.instagram.com/nishil_p004/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" /></a>
+  <a href="https://medium.com/@pathaknishil3642"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="30" /></a>
+  <a href="https://www.hackerrank.com/22ce61"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png" width="30" /></a>
+  <a href="https://leetcode.com/nishil3642/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="30" /></a>
+</p>
 
-- 💬 Ask me about **AI/ ML, Cloud**
+---
 
-- 📫 How to reach me **pathaknishil3642@gmail.com**
+## 🛠️ Languages & Tools
 
-### Blogs posts
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishil61&theme=onedark&margin-w=15&no-frame=true" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishil61&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishil61&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+## 🧩 GSSoC'24 Badges
+
+<p align="center">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/postman.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png?raw=true" width="80" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png?raw=true" width="80" />
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nishilpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishilpathak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishil-pathak-05b2111b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishil-pathak-05b2111b0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nishil.pathak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nishil.pathak/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nishil_p004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nishil_p004/" height="30" width="40" /></a>
-<a href="https://medium.com/@pathaknishil3642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathaknishil3642" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/22ce61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/22ce61" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nishil3642/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nishil3642/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishil61&show_icons=true&locale=en&layout=compact" alt="nishil61" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishil61&" alt="nishil61" /></p>
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
-</div>
+> 🌟 Feel free to Star ⭐ my repositories if you find them useful. Let’s connect and grow together 🚀  
