@@ -82,15 +82,15 @@
 ## 🧩 GSSoC'24 Badges
 
 <p align="center">
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/postman.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png?raw=true" width="80" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png?raw=true" width="80" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" width="80px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" width="80px" />
 </p>
 
 ---
